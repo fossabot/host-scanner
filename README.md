@@ -1,4 +1,6 @@
 # Kubescape host-scanner
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fhost-scanner.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fhost-scanner?ref=badge_shield)
+
 ## Description
 This component is a data acquisition component in the Kubescape project. Its goal is to collect information about the Kubernetes node host for further security posture evaluation in Kubescape.
 
@@ -583,3 +585,7 @@ UBUNTU_CODENAME=focal
 	"icmpPorts": []
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fhost-scanner.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fhost-scanner?ref=badge_large)
